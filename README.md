@@ -65,6 +65,8 @@ Leave the Theoretical Window as the default parameters
 
 # Results
 Theoretical Graph for BER vs SNR
+
+
 ![image](https://github.com/KarthikT23/BER-vs-SNR-in-BPSK/assets/119528503/0c604190-f8ed-4f16-a30d-c812e9974ff6)
 
 BER vs SNR for EbNo=20 with a 10^u math function block in the model
